@@ -16,7 +16,7 @@ public partial class loginnew : System.Web.UI.Page
 
         Session["Name"] = TBusername.Text;
         Session["Password"] = TBpassword.Text;
-        response,write("hi there.");
+        //response,write("hi there.");
 
 
         DBservices dbs = new DBservices();
