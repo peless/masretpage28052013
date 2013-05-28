@@ -1,0 +1,35 @@
+
+Log Entry : 
+05/04/2013 19:05:53
+Error in: http://localhost:63565/masterpage/Default.aspx. Error Message:Sample Exception
+__________________________
+
+Log Entry : 
+05/04/2013 19:07:53
+Error in: http://localhost:63565/masterpage/Default.aspx. Error Message:Sample Exception
+__________________________
+
+Log Entry : 
+05/04/2013 20:11:21
+Error in: http://localhost:63565/masterpage/Default.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/04/2013 20:11:31
+Error in: http://localhost:63565/masterpage/formOrder.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/04/2013 20:11:41
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Conversion failed when converting date and/or time from character string.
+__________________________
+
+Log Entry : 
+05/04/2013 20:11:55
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=74. Error Message:Conversion failed when converting date and/or time from character string.
+__________________________
+
+Log Entry : 
+05/04/2013 20:12:21
+Error in: http://localhost:63565/masterpage/formOrder.aspx. Error Message:Thread was being aborted.
+__________________________

@@ -1,0 +1,80 @@
+
+Log Entry : 
+05/23/2013 13:07:52
+Error in: http://localhost:51435/masterpage/Message .aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 13:11:38
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 13:12:14
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 13:20:06
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 16:51:15
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 16:56:53
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 16:57:06
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 16:58:11
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 16:58:15
+Error in: http://localhost:51435/masterpage/message.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+05/23/2013 17:27:05
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:'System.Web.UI.WebControls.DropDownList' does not allow child controls.
+__________________________
+
+Log Entry : 
+05/23/2013 17:27:57
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:'System.Web.UI.WebControls.DropDownList' does not allow child controls.
+__________________________
+
+Log Entry : 
+05/23/2013 17:28:44
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:'System.Web.UI.WebControls.DropDownList' does not allow child controls.
+__________________________
+
+Log Entry : 
+05/23/2013 17:31:05
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:'System.Web.UI.WebControls.DropDownList' does not allow child controls.
+__________________________
+
+Log Entry : 
+05/23/2013 17:32:43
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:'System.Web.UI.WebControls.DropDownList' does not allow child controls.
+__________________________
+
+Log Entry : 
+05/23/2013 17:33:10
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:'System.Web.UI.WebControls.DropDownList' does not allow child controls.
+__________________________
+
+Log Entry : 
+05/23/2013 17:59:19
+Error in: http://localhost:51435/masterpage/NewIteam.aspx. Error Message:Incorrect syntax near 'אחר'.
+__________________________

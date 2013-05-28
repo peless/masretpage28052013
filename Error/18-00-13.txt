@@ -1,0 +1,50 @@
+
+Log Entry : 
+05/18/2013 18:13:13
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=84. Error Message:Invalid column name 'statud'.
+__________________________
+
+Log Entry : 
+05/18/2013 18:13:34
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=84. Error Message:Invalid column name 'statud'.
+__________________________
+
+Log Entry : 
+05/18/2013 18:18:17
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________
+
+Log Entry : 
+05/18/2013 18:45:36
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________
+
+Log Entry : 
+05/18/2013 19:50:15
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________
+
+Log Entry : 
+05/18/2013 19:55:07
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________
+
+Log Entry : 
+05/18/2013 20:31:10
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+05/18/2013 20:36:45
+Error in: http://localhost:63565/masterpage/OrderList.aspx. Error Message:Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+05/18/2013 20:56:10
+Error in: http://localhost:63565/masterpage/Teva_Pay.aspx?ID=. Error Message:Object cannot be cast from DBNull to other types.
+__________________________
+
+Log Entry : 
+05/18/2013 21:34:35
+Error in: http://localhost:63565/masterpage/Teva_Pay.aspx?ID=. Error Message:Object cannot be cast from DBNull to other types.
+__________________________

@@ -1,0 +1,10 @@
+
+Log Entry : 
+05/27/2013 09:59:05
+Error in: http://localhost:51419/masterpage/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________
+
+Log Entry : 
+05/27/2013 18:49:55
+Error in: http://localhost:49539/masretpage28052013/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________

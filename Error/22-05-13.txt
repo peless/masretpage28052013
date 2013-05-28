@@ -1,0 +1,30 @@
+
+Log Entry : 
+05/22/2013 17:28:48
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=95. Error Message:Incorrect syntax near the keyword 'WHERE'.
+__________________________
+
+Log Entry : 
+05/22/2013 17:30:17
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=95. Error Message:Incorrect syntax near the keyword 'WHERE'.
+__________________________
+
+Log Entry : 
+05/22/2013 17:33:24
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=78. Error Message:Incorrect syntax near the keyword 'WHERE'.
+__________________________
+
+Log Entry : 
+05/22/2013 17:36:59
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx. Error Message:Incorrect syntax near '='.
+__________________________
+
+Log Entry : 
+05/22/2013 18:14:18
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=78. Error Message:Incorrect syntax near the keyword 'WHERE'.
+__________________________
+
+Log Entry : 
+05/22/2013 18:22:25
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=76. Error Message:Incorrect syntax near the keyword 'where'.
+__________________________

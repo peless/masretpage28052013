@@ -1,0 +1,106 @@
+
+Log Entry : 
+05/25/2013 12:58:05
+Error in: http://localhost:63565/masterpage/message.aspx. Error Message:Violation of PRIMARY KEY constraint 'PK__Message__78A1A19C47A6A41B'. Cannot insert duplicate key in object 'dbo.Message'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+05/25/2013 12:58:40
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Incorrect syntax near ','.
+__________________________
+
+Log Entry : 
+05/25/2013 12:58:47
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Incorrect syntax near ','.
+__________________________
+
+Log Entry : 
+05/25/2013 13:00:13
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Incorrect syntax near ','.
+__________________________
+
+Log Entry : 
+05/25/2013 13:00:17
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Incorrect syntax near ','.
+__________________________
+
+Log Entry : 
+05/25/2013 13:00:41
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+05/25/2013 13:05:56
+Error in: http://localhost:63565/masterpage/itemOrder.aspx. Error Message:Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+05/25/2013 13:08:08
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=98. Error Message:Conversion failed when converting date and/or time from character string.
+__________________________
+
+Log Entry : 
+05/25/2013 13:11:56
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=98. Error Message:Conversion failed when converting date and/or time from character string.
+__________________________
+
+Log Entry : 
+05/25/2013 13:26:05
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=99. Error Message:Conversion failed when converting date and/or time from character string.
+__________________________
+
+Log Entry : 
+05/25/2013 13:31:59
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=99. Error Message:Conversion failed when converting date and/or time from character string.
+__________________________
+
+Log Entry : 
+05/25/2013 13:46:14
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+05/25/2013 13:54:19
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+05/25/2013 13:54:42
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+05/25/2013 13:55:32
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+05/25/2013 14:21:01
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:Column 'Status' does not belong to table ItenInOrder.
+__________________________
+
+Log Entry : 
+05/25/2013 14:21:38
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:Column 'Status' does not belong to table ItenInOrder.
+__________________________
+
+Log Entry : 
+05/25/2013 14:23:10
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:Column 'Status' does not belong to table ItenInOrder.
+__________________________
+
+Log Entry : 
+05/25/2013 14:25:28
+Error in: http://localhost:63565/masterpage/OrderConfirmation.aspx?Po_id=102. Error Message:Column 'Status' does not belong to table ItenInOrder.
+__________________________
+
+Log Entry : 
+05/25/2013 17:58:28
+Error in: http://localhost:51419/masterpage/Reports/BranchConsumtion.aspx. Error Message:Both DataSource and DataSourceID are defined on 'ddlBranches'.  Remove one definition.
+__________________________
+
+Log Entry : 
+05/25/2013 18:00:06
+Error in: http://localhost:51419/masterpage/Reports/BranchConsumtion.aspx. Error Message:Both DataSource and DataSourceID are defined on 'ddlBranches'.  Remove one definition.
+__________________________
